@@ -1,4 +1,4 @@
-# PySparkMusicRecommender
+# PySparkALS_MusicRecommender
  
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -46,7 +46,7 @@ This is a list of packages that need to be installed before the notebook can be 
 
 ### Installation
 
-Clone the repo: https://github.com/calvinma888/PySparkMusicRecommender.git
+Clone the repo: https://github.com/calvinma888/PySparkALS_MusicRecommender.git
 
 ### Datasets
 The datasets can be downloaded from this link: https://drive.google.com/drive/folders/1ZhV5LxuRBYiD81HJHQTheQawXZ5MkPim
